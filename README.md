@@ -11,5 +11,5 @@ by refering the one of the best youtube channel for the projects, because it hel
 
 ## Id's
 
-Github (ramu1904) = (https://github.com/ramu1904)/
-Linkedin (Ramu Ramu) = (https://www.linkedin.com/in/ramu-ramu-1821102b1/)/
+Github (ramu1904) = (https://github.com/ramu1904)
+Linkedin (Ramu Ramu) = (https://www.linkedin.com/in/ramu-ramu-1821102b1/)
